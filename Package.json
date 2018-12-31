@@ -1,0 +1,17 @@
+{
+    "name": "spam",
+    "version": "v0.1.1",
+    "description": "spam",
+    "main": "node bot.js",
+    "scripts": {
+      "test": "zabi",
+      "start": "node bot.js"
+    },
+    "engines": {
+      "node": "8.9.4"
+    },
+    "dependencies": {
+      "discord.js": "^11.3.2"
+    }
+  }
+  
